@@ -1,4 +1,4 @@
-# Minute Marketing (Backend)
+# ZaltechApps <Project Name> (Backend)
 Author : `[Nazar Hussain]`
 Email: `[nazar@zaltechapps.com]`
 GitHub: https://github.com/nazar-kh
